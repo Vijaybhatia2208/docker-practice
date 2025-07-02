@@ -1,6 +1,6 @@
 FROM node:20
 
-WORKDIR /usr/src/app
+WORKDIR /home/littlegiant/Documents/playground/docker-roadmap/part-1/1-simple-app
 
 COPY . .
 
